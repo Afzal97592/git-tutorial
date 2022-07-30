@@ -1,3 +1,4 @@
 var a = 10;
 var b = 20;
-console.log(a+b)
+var c = 30;
+console.log(a+b+c)
